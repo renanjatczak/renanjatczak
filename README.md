@@ -1,7 +1,7 @@
 ## Olá, eu sou o Renan Jatczak 👋
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Atualmente estou estudando JavaScript e TypeScript
+- 💻 Atualmente estou estudando Python
 
 
 ![renanjatczak GitHub stats](https://github-readme-stats.vercel.app/api?username=renanjatczak&show_icons=true&theme=radical)
