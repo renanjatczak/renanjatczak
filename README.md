@@ -14,10 +14,10 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/renanjatczak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renanjatczak@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/renan-jatczak-42b22a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    <a href="https://linkedin.com/in/renan-jatczak-42b22a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:renanjatczak@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/renanjatczak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
 </div>
 <!---
 renanjatczak/renanjatczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
