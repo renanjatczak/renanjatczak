@@ -1,6 +1,6 @@
 ## Olá, eu sou o Renan Jatczak 👋
 
-- 📚 Sou estudante do 4º semestre em Análise e Desenvolvimento de Sistemas
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Atualmente estou estudando JavaScript, Node.js, Python e Django
 
 
