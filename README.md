@@ -20,7 +20,7 @@ Atualmente estudando: Laravel, Filament, Tailwind CSS e Alpine.js
   <img align="center" alt="Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-  <img align="center" alt="Filament" title="Filament PHP" height="30" src="https://filamentphp.com/images/logo-mark.svg">
+  <img align="center" alt="Filament" title="Filament PHP" height="30" src="https://filamentphp.com/images/logo-mark.png">
   <img align="center" alt="TailwindCSS" title="Tailwind CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="AlpineJS" title="Alpine.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg">
 </div>
