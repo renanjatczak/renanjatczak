@@ -1,18 +1,27 @@
-## Olá, eu sou o Renan Jatczak 👋
+## 👋 Olá! Eu sou o Renan Jatczak
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.
 
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Atualmente estou estudando JavaScript, Node.js, Python e Django
+💡 Tenho conhecimentos em:
+
+HTML, CSS, JavaScript, PHP, Python, Node.js, Django
+
+Atualmente estudando: Laravel, Filament, Tailwind CSS e Alpine.js
+
+💻 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor!
 
 
 ![renanjatczak GitHub stats](https://github-readme-stats.vercel.app/api?username=renanjatczak&show_icons=true&theme=radical)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-
-  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="NodeJS" title="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+  <img align="center" alt="TailwindCSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="AlpineJS" title="Alpine.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg"> 
 </div>
 
 ##
