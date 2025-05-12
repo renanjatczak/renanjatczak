@@ -3,12 +3,9 @@
 
 💡 Tenho conhecimentos em:
 
-HTML, CSS, JavaScript, PHP, Python, Node.js, Django
+HTML, CSS, JavaScript, PHP, Python, Django
 
-Atualmente estudando: Laravel, Filament, Tailwind CSS e Alpine.js
-
-💻 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor!
-
+💻 Atualmente estudando e trabalhando com Laravel, Filament, Tailwind CSS e Alpine.js
 
 ![renanjatczak GitHub stats](https://github-readme-stats.vercel.app/api?username=renanjatczak&show_icons=true&theme=radical)
  <div style="display: inline_block"><br>
