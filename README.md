@@ -1,11 +1,9 @@
 ## 👋 Olá! Eu sou o Renan Jatczak
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.
 
-💡 Tenho conhecimentos em:
+💡 Tenho conhecimentos em HTML, CSS, JavaScript, PHP, Python, Django.
 
-HTML, CSS, JavaScript, PHP, Python, Django
-
-💻 Atualmente estudando e trabalhando com Laravel, Filament, Tailwind CSS e Alpine.js
+💻 Atualmente estudando e trabalhando com Laravel, Filament, Tailwind CSS e Alpine.js.
 
 ![renanjatczak GitHub stats](https://github-readme-stats.vercel.app/api?username=renanjatczak&show_icons=true&theme=radical)
  <div style="display: inline_block"><br>
