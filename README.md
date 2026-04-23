@@ -8,8 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,php,laravel,tailwind,alpinejs&theme=dark)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/filamentphp/filament@3.x/docs/images/logo.svg" width="40" />
-
 ##
 
 <div> 
