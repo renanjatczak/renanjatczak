@@ -1,10 +1,16 @@
 ## 👋 Olá! Eu sou o Renan Jatczak
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, arquitetura de software e desenvolvimento de aplicações web reais.
 
-💡 Tenho conhecimentos em HTML, CSS, JavaScript, PHP, Python, Django.
+💼 Atualmente atuo como Desenvolvedor Júnior, trabalhando diretamente na manutenção, evolução e construção de projetos reais com foco em backend, SaaS, automações e plataformas web.
 
-💻 Atualmente estudando e trabalhando com Laravel, Filament, Tailwind CSS e Alpine.js.
+🚀 Experiência sólida com Laravel, Livewire, Filament, PHP, PostgreSQL, Docker, Tailwind CSS, Alpine.js, Git/GitHub, APIs REST, modelagem de banco de dados e ambientes de desenvolvimento modernos com foco em produtividade e escalabilidade.
+
+🛠️ Vivência prática no desenvolvimento de sistemas full stack, incluindo projetos com Laravel + Filament, plataformas SaaS, multi-tenant systems, automações administrativas, Lovable (vibe coding), Supabase, Vite, além de integração com ferramentas modernas de deploy, infraestrutura e produtividade.
+
+📚 Conhecimentos complementares e projetos de estudo com JavaScript, Python, Django, Next.js, Vite.js, Oracle Database, SQL, modelagem relacional, UX aplicada a sistemas administrativos e arquitetura de software.
+
+🔥 Focado em criar soluções funcionais para negócios reais, transformar ideias em produtos digitais e evoluir continuamente como desenvolvedor, unindo tecnologia, estratégia e execução.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,php,laravel,tailwind,alpinejs&theme=dark)](https://skillicons.dev)
 
