@@ -12,9 +12,14 @@
 
 🔥 Focado em criar soluções funcionais para negócios reais, transformar ideias em produtos digitais e evoluir continuamente como desenvolvedor, unindo tecnologia, estratégia e execução.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,php,laravel,tailwind,alpinejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,php,laravel,tailwind,alpinejs,postgres,docker,git,github,supabase,vite,nextjs&theme=dark)](https://skillicons.dev)
 
-##
+<div>
+    <img src="https://img.shields.io/badge/-Filament-%23FDAE4B?style=for-the-badge&logo=filament&logoColor=white">
+    <img src="https://img.shields.io/badge/-Livewire-%234E56A6?style=for-the-badge&logo=livewire&logoColor=white">
+</div>
+
+---
 
 <div> 
     <a href="https://linkedin.com/in/renan-jatczak-42b22a17b/" target="_blank">
