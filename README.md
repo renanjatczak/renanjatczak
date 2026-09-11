@@ -12,7 +12,7 @@
 
 🔥 Focado em criar soluções funcionais para negócios reais, transformar ideias em produtos digitais e evoluir continuamente como desenvolvedor, unindo tecnologia, estratégia e execução.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,php,laravel,tailwind,alpinejs,postgres,docker,git,github,supabase,vite,nextjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,django,php,laravel,tailwind,alpinejs,postgres,docker,git,github,supabase,vite,nextjs&theme=dark&perline=9)](https://skillicons.dev)
 
 <div>
     <img src="https://img.shields.io/badge/-Filament-%23FDAE4B?style=for-the-badge&logo=filament&logoColor=white">
